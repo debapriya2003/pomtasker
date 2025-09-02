@@ -48,7 +48,7 @@ This app helps you boost productivity using the **Pomodoro technique** while kee
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/pomodoro_flutter.git
+git clone https://github.com/debapriya2003/pomodoro_flutter.git
 cd pomodoro_flutter
 ```
 
